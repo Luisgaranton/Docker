@@ -1,0 +1,5 @@
+# Ignora todos los archivos con la extensión ".txt"
+*.txt
+
+# Ignora todos los archivos en la carpeta "bin"
+bin/
